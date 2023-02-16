@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "537858489402",
+    "project_id": "sinoprojdemo",
+    "storage_bucket": "sinoprojdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537858489402:android:9ef9494c7da515329a8903",
+        "android_client_info": {
+          "package_name": "com.masterung.shinoprojdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537858489402-jp071q9vmajep788l3k2rovbv8sv29hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masterung.shinoprojdemo",
+            "certificate_hash": "49c386dbb4b248e00e921054779d437f6f739feb"
+          }
+        },
+        {
+          "client_id": "537858489402-gef88mnipo2nnbl7g6gsl106ljdslc2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXapZRkcU6qVv3mWoGymsA-4AZ4ld0ib4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537858489402-gef88mnipo2nnbl7g6gsl106ljdslc2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
